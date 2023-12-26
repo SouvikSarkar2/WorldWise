@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Balurghat",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-18T12:51:22.725Z",
+      "notes": "",
+      "position": {
+        "lat": "25.219850725454755",
+        "lng": "88.78875732421875"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Gangarampur",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-12-18T12:51:34.660Z",
+      "notes": "",
+      "position": {
+        "lat": "25.39614171131381",
+        "lng": "88.51409912109375"
+      },
+      "id": 98443200
+    }
+  ]
+}
