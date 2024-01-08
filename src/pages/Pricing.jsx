@@ -15,9 +15,13 @@ export default function Product() {
             Just $9/month.
           </h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vitae vel
-            labore mollitia iusto. Recusandae quos provident, laboriosam fugit
-            voluptatem iste.
+            $9/month: Everything in Wanderer's Passport. Priority customer
+            support. Advanced statistics and insights about your travels.
+            Collaborate on shared maps with friends.
+            <br /> Nomad's Odyssey - $19.99/month: All the features in Global
+            Voyager. Exclusive access to new features and updates. Premium map
+            themes and customization options. Unlimited storage for photos and
+            memories.
           </p>
         </div>
         <img src="img-2.jpg" alt="overview of a large city with skyscrapers" />

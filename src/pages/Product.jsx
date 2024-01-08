@@ -14,16 +14,14 @@ export default function Product() {
         <div>
           <h2>About WorldWide.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            Embark on a journey of a lifetime with WorldWise, your trusted
+            partner in documenting and sharing your global adventures. We
+            understand that every step you take, every city you explore, and
+            every memory you create is a treasure worth cherishing. WorldWise is
+            here to help you capture, preserve, and share those moments
+            seamlessly.
           </p>
-          <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
-          </p>
+          <p>Welcome to WorldWise – The Ultimate Travel Companion!</p>
         </div>
       </section>
     </main>
